@@ -4,7 +4,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 
-Leia em: [English](README.md) | **Português**
+Leia em: Português | [English](README.md) 
 
 Coleção de exercícios de JavaScript puro (ES6+) e Node.js, cobrindo fundamentos da linguagem, manipulação do DOM, módulos nativos do Node e um servidor Express minimalista.
 
