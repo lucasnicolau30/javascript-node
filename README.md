@@ -4,7 +4,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 
-Read in: **English** | [Português](README.pt.md)
+Read in: [Português](README.pt.md) | English
 
 Collection of vanilla JavaScript (ES6+) and Node.js exercises, covering language fundamentals, DOM manipulation, core Node modules, and a minimal Express server.
 
